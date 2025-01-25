@@ -59,7 +59,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London
-      - CHROME_CLI=https://github.com/colonyairdrops #optional
+      - CHROME_CLI=https://github.com/WwCfOfficial #optional
     volumes:
       - /root/chromium/config:/config
     ports:
@@ -87,7 +87,7 @@ docker system prune
 
 ---
 - Done !! Feel free to ask queries in telegram channel
-- Telegram - https://t.me/colonyairdrops
-- Youtube - https://www.youtube.com/@ColonyAirdrops
+- Telegram - https://t.me/WwCfAirdrops
+- Youtube - https://www.youtube.com/@WwCfOfficial
 
-- Credit: @0xmoei
+- Credit: @WwCfOfficial
